@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on
-- Porting the GOV.UK Design System in Figma
+- Cloning the [GOV.UK Design System](https://design-system.service.gov.uk/) in Figma
 - Flexible Content Type, currently in Discovery
 
 ### 🌱 I’m currently learning
