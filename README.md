@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 #### Actively
 - Figma's full capabilities of creating reusable and scalable components
-- Building a Photography portfolio website using [11ty](https://www.11ty.dev), [ExifReader](https://www.npmjs.com/package/exifreader), [OpenCage](https://opencagedata.com) and [Claude AI](https://www.anthropic.com/api)
 #### Passively
 - Artificial Intelligence
 - Swift
