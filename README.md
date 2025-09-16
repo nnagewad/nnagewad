@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 #### Actively
 - Figma's full capabilities of creating reusable and scalable components
+- Swift
 #### Passively
 - Artificial Intelligence
-- Swift
 
 <!--
 ### 👯 I’m looking to collaborate on
