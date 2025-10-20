@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 - Cloning the [GOV.UK Design System](https://design-system.service.gov.uk/) in Figma
-- Flexible Content Type, currently in Discovery
+- Constant upkeeping of [nikin.design](https://nikin.design) and [everydaylens.photos](https://everydaylens.photos)
 
 ### 🌱 I’m currently learning
 #### Actively
-- Figma's full capabilities of creating reusable and scalable components
 - Swift
 #### Passively
 - Artificial Intelligence
