@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
 #### Actively
-- Swift
+- Swift on Code Academy
+- Continous improvements to [everydaylens.photos](https://everydaylens.photos)
+- [D3](https://d3js.org/) for an upcoming art project
 #### Passively
 - Artificial Intelligence
 
